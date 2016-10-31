@@ -137,8 +137,8 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 .about,.work,.education,.skills,.portfolio,.contact{
 	padding:6em 0;
 }
-.about-center {
-    text-align: center;
+.about-me-quote{
+    font-size: 1.5em;    
 }
 h3.title {
     font-size: 4em;
